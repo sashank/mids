@@ -3,7 +3,7 @@
 The below are links cited on of upcoming papers on privacy preserving intrusion detection
 
 ## Standards 
-http://www.mitre.org/capabilities/cybersecurity \\ /overview/cybersecurity-resources/standards
+http://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-resources/standards
 
 ## Flow based inspection
 http://www.lancope.com/resource-center/white-papers/14-ways-to-leverage-netflow-white-paper/
@@ -33,6 +33,11 @@ http://www.talosintel.com/
 
 ## Industry Reports
 http://www.cisco.com/c/en/us/products/security/annual_security_report.html
+
+## Encrypted Traffic
+https://tools.ietf.org/html/draft-mm-wg-effect-encrypt-01
+https://www.sandvine.com/downloads/general/global-internet-phenomena/2015/encrypted-internet-traffic.pdf
+
 
 ## Surveys that attacks go unreported
 http://www.zdnet.com/article/unreported-cyberattacks-not-just-due-to-reputation-concerns/
